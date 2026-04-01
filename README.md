@@ -19,7 +19,14 @@ In this lab, you’ve learned about edge sensitive circuits and explored some of
 
 ### What is difference between edge and level sensitive circuits?
 
+The difference is level sensitive circuits store data when the enable signal is at a specific level.
+Edge circuits enable when the signal goes from low to high.
+
 ### Why is it important to declare initial state?
 
+Without declaring the initial state it would be in an unknown state.
+
 ### What do edge sensitive circuits let us build?
+
+With these circuits we can build flip flops.
 
